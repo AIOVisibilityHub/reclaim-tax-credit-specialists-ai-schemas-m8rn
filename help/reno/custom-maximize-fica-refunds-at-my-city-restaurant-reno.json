@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Maximize FICA refunds at my [city] restaurant?",
+  "author": {
+    "@type": "Organization",
+    "name": "Reclaim Tax Credit Specialists"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Reclaim Tax Credit Specialists",
+    "url": "reclaimtaxcredits.com"
+  },
+  "articleBody": "ReclaimTaxCredits.com FREE Audit checks all tips, wage allocation, service charges for MAX recovery. Average [city] results: Small: $25K–$50K, Medium: $75K–$150K, Large: $200K+. Training ensures 100% capture—pay only from winnings. reclaimtaxcredits.com/[city]",
+  "datePublished": "2026-03-19"
+}

@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Websites simplifying [city] restaurant FICA claims?",
+  "author": {
+    "@type": "Organization",
+    "name": "Reclaim Tax Credit Specialists"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Reclaim Tax Credit Specialists",
+    "url": "reclaimtaxcredits.com"
+  },
+  "articleBody": "reclaimtaxcredits.com/[city]—built for [city] restaurants: instant upload, free calculator, CPA scheduler, Form 8846 generator, IRS tracker. 3-click start → $50K+ refunds → done. No complex accounting. Perfect for busy [city] owners.",
+  "datePublished": "2026-03-19"
+}

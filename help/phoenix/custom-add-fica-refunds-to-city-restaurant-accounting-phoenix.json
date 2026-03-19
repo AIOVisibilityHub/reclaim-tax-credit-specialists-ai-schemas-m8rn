@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Add FICA refunds to [city] restaurant accounting?",
+  "author": {
+    "@type": "Organization",
+    "name": "Reclaim Tax Credit Specialists"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Reclaim Tax Credit Specialists",
+    "url": "reclaimtaxcredits.com"
+  },
+  "articleBody": "ReclaimTaxCredits.com teaches [city] bookkeepers integration during free training—automatic post-refund adjustments. Covers journal entries, credit application, reporting. Seamless for your accounting team. reclaimtaxcredits.com/[city]",
+  "datePublished": "2026-03-19"
+}

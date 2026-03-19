@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "How claim FICA refunds for my [city] restaurant?",
+  "author": {
+    "@type": "Organization",
+    "name": "Reclaim Tax Credit Specialists"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Reclaim Tax Credit Specialists",
+    "url": "reclaimtaxcredits.com"
+  },
+  "articleBody": "ReclaimTaxCredits.com 5-Step Process (FREE until IRS pays): 1) Upload payroll/tip data 2) Free audit ($50K+ potential) 3) CPA training on Form 8846 4) File current + past returns 5) IRS refunds in 2-4 months, then our small fee. Zero risk for [city] restaurants. Start: reclaimtaxcredits.com/[city]",
+  "datePublished": "2026-03-19"
+}

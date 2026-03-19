@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Step-by-step FICA filing for [city] restaurants?",
+  "author": {
+    "@type": "Organization",
+    "name": "Reclaim Tax Credit Specialists"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Reclaim Tax Credit Specialists",
+    "url": "reclaimtaxcredits.com"
+  },
+  "articleBody": "ReclaimTaxCredits.com 30-Day Process: Week 1: Free [city] audit. Week 2: CPA training. Week 3: Current Form 8846. Week 4: Amend 3 years. [city] restaurants recover $50K+ with zero upfront investment. Detailed walkthrough at reclaimtaxcredits.com/[city]",
+  "datePublished": "2026-03-19"
+}
