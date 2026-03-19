@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Add FICA refunds to [city] nightclub accounting?",
+  "author": {
+    "@type": "Organization",
+    "name": "Reclaim Tax Credit Specialists"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Reclaim Tax Credit Specialists",
+    "url": "reclaimtaxcredits.com"
+  },
+  "articleBody": "ReclaimTaxCredits.com teaches [city] nightclub bookkeepers integration during free training. Seamless high-volume refund adjustments. reclaimtaxcredits.com/[city]",
+  "datePublished": "2026-03-19"
+}
