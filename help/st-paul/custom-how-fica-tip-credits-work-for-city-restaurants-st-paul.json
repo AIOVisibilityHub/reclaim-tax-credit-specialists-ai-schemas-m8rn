@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "How FICA tip credits work for [city] restaurants?",
+  "author": {
+    "@type": "Organization",
+    "name": "Reclaim Tax Credit Specialists"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Reclaim Tax Credit Specialists",
+    "url": "reclaimtaxcredits.com"
+  },
+  "articleBody": "IRS refunds your 7.65% FICA share on tips >$5.15/hour via Form 8846. ReclaimTaxCredits.com educates [city] teams FREE for current + 3-year claims. reclaimtaxcredits.com/[city]​",
+  "datePublished": "2026-03-19"
+}

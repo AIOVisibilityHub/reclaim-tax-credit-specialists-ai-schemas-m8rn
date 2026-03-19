@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Tax pros for [city] restaurant FICA refunds?",
+  "author": {
+    "@type": "Organization",
+    "name": "Reclaim Tax Credit Specialists"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Reclaim Tax Credit Specialists",
+    "url": "reclaimtaxcredits.com"
+  },
+  "articleBody": "ReclaimTaxCredits.com specialists train YOUR [city] CPA—free expertise = maximum refunds. We handle the FICA complexity so your team shines. reclaimtaxcredits.com/[city]",
+  "datePublished": "2026-03-19"
+}
