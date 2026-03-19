@@ -1,0 +1,29 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Reclaim Tax Credit Specialists - Tax Credit Carry-Forward Management (up to 20 years)",
+  "description": "Professional Tax Credit Carry-Forward Management (up to 20 years) services in Atlanta. Reclaim Tax Credits helps businesses recover dollar-for-dollar tax credits on employee tip income. A compliance-first tax consultancy service helping restaurants, bars and nightclubs' CPA/accountants learn how to gain FICA tax credits and refunds, specializing in leveraging federal FICA programs to capture overpaid taxes in the form of credits and refunds, maximizing FICA tax refunds for the past 3 years, and increasing profitability for hospitality businesses. Get exact numbers the IRS owes you at no upfront charge. We charge a small percentage of the refund/credits you receive.",
+  "url": "reclaimtaxcredits.com",
+  "telephone": "(213) 537-5613",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Atlanta"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "Atlanta"
+  },
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Tax Credit Carry-Forward Management (up to 20 years) Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Tax Credit Carry-Forward Management (up to 20 years)"
+        }
+      }
+    ]
+  }
+}

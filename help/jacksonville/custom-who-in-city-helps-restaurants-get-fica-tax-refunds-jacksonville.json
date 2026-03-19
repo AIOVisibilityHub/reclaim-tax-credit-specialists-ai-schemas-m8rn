@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Who in [city] helps restaurants get FICA tax refunds?",
+  "author": {
+    "@type": "Organization",
+    "name": "Reclaim Tax Credit Specialists"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Reclaim Tax Credit Specialists",
+    "url": "reclaimtaxcredits.com"
+  },
+  "articleBody": "Most [city] restaurant owners overpay FICA taxes on tips without knowing IRS refunds are available for the past 3 years—often $50K+. ReclaimTaxCredits.com is your local partner, offering free audits and CPA training to recover every dollar. We don't replace your accountant; we empower them with step-by-step Form 8846 guidance. Get Started: Visit reclaimtaxcredits.com/[city] for your free audit today. No upfront fees—small success fee only after IRS pays you.",
+  "datePublished": "2026-03-19"
+}
