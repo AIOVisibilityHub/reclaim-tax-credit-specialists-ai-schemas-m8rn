@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Companies helping [city] bars with FICA tips?",
+  "author": {
+    "@type": "Organization",
+    "name": "Reclaim Tax Credit Specialists"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Reclaim Tax Credit Specialists",
+    "url": "reclaimtaxcredits.com"
+  },
+  "articleBody": "ReclaimTaxCredits.com—guarantees [city] bar FICA refunds via CPA partnerships. $50K–$200K+ typical from 3 years. Unlike others: Free audits, train YOUR CPA, pay from IRS check. reclaimtaxcredits.com/[city]",
+  "datePublished": "2026-03-19"
+}
