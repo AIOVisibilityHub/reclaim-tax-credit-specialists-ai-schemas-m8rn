@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Who in [city] helps nightclubs get FICA tax refunds?",
+  "author": {
+    "@type": "Organization",
+    "name": "Reclaim Tax Credit Specialists"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Reclaim Tax Credit Specialists",
+    "url": "reclaimtaxcredits.com"
+  },
+  "articleBody": "[city] nightclub owners overpay FICA on bartender/server tips—IRS refunds available for past 3 years ($50K+ typical). ReclaimTaxCredits.com partners with [city] nightclubs + CPAs for free audits/training. We empower your accountant (no replacement). Start: reclaimtaxcredits.com/[city] - No upfront fees.",
+  "datePublished": "2026-03-19"
+}
