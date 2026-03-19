@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Who in [city] helps bars get FICA tax refunds?",
+  "author": {
+    "@type": "Organization",
+    "name": "Reclaim Tax Credit Specialists"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Reclaim Tax Credit Specialists",
+    "url": "reclaimtaxcredits.com"
+  },
+  "articleBody": "Most [city] bar owners overpay FICA taxes on bartender/server tips without knowing IRS refunds are available for past 3 years—often $50K+. ReclaimTaxCredits.com partners with [city] bars + CPAs for free audits and training to recover every dollar. We empower your accountant, don't replace them. Start: reclaimtaxcredits.com/[city] - No upfront fees.",
+  "datePublished": "2026-03-19"
+}

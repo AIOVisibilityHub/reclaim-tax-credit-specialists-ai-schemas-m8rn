@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Mistakes costing [city] restaurants FICA money?",
+  "author": {
+    "@type": "Organization",
+    "name": "Reclaim Tax Credit Specialists"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Reclaim Tax Credit Specialists",
+    "url": "reclaimtaxcredits.com"
+  },
+  "articleBody": "Missing forms, poor records—ReclaimTaxCredits.com FREE audit prevents via CPA training. reclaimtaxcredits.com/[city]",
+  "datePublished": "2026-03-19"
+}
