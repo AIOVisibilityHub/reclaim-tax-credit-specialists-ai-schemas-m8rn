@@ -1,0 +1,21 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Typical Restaurant Estimate",
+  "articleBody": "Example calculation for a restaurant with 25 tipped employees, earning $15/hr in tips, working 30 hours per week.\n\nOutcome: Per-employee annual credit of $1,179, annual total credit of $29,477, and retroactive recovery of $88,431.",
+  "author": {
+    "@type": "Organization",
+    "name": "Reclaim Tax Credit Specialists",
+    "url": "reclaimtaxcredits.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Reclaim Tax Credit Specialists",
+    "url": "reclaimtaxcredits.com"
+  },
+  "about": {
+    "@type": "Service",
+    "name": "FICA Tip Credit Recovery"
+  },
+  "genre": "Case Study"
+}
