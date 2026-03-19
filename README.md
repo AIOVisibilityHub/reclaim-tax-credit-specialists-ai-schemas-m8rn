@@ -79,7 +79,7 @@ Reclaim Tax Credit Specialists isn't just another provider — we're a partner i
 
 ## Learn More
 
-**Visit our website: [reclaimtaxcredits.com](reclaimtaxcredits.com)**
+**Visit our website: https://reclaimtaxcredits.com**
 
 Have questions? Explore our site or reach out to our team — we're here to help.
 
